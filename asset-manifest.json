@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-enojatent-hiper-parchis-js/static/css/main.073c9b0a.css",
+    "main.js": "/test-enojatent-hiper-parchis-js/static/js/main.b4086361.js",
+    "static/js/787.b34a78ef.chunk.js": "/test-enojatent-hiper-parchis-js/static/js/787.b34a78ef.chunk.js",
+    "static/media/logo.svg": "/test-enojatent-hiper-parchis-js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-enojatent-hiper-parchis-js/index.html",
+    "main.073c9b0a.css.map": "/test-enojatent-hiper-parchis-js/static/css/main.073c9b0a.css.map",
+    "main.b4086361.js.map": "/test-enojatent-hiper-parchis-js/static/js/main.b4086361.js.map",
+    "787.b34a78ef.chunk.js.map": "/test-enojatent-hiper-parchis-js/static/js/787.b34a78ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b4086361.js"
+  ]
+}
